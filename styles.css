@@ -1,3 +1,21 @@
-git remote add origin git@github.com:em34codes/excursion.git
-git branch -M main
-git push -u origin main
+html {
+
+}
+
+body {
+    background-color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #fff;
+    font-weight: normal;
+}
+
+#comingsoon {
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
