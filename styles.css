@@ -36,3 +36,9 @@ body {
     color: aquamarine;
 }
 
+/* COPYRIGHT */
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
